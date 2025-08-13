@@ -56,7 +56,8 @@ For example:
 Mental health (e.g., number of days mental health was not good)
 Certain chronic conditions (e.g., diabetes, high cholesterol, heart conditions)
 Socio-economic factors (e.g., employment)
-Experiences of adverse childhood events (ACEs)]
+Experiences of adverse childhood events (ACEs)
+Demographics, including Sexual Orientation
 
 It is important to mention, the included measures are associtated with Depression, but they are not predictive in a sense that they can lead to Depression instead of being the result (high BMI).
 
