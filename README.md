@@ -7,6 +7,10 @@ Survey data has been published annually by the [CDC](https://www.cdc.gov/) since
 The aim of this project is to build a model to predict mental health outcomes that could serve as a tool to prevent these outcomes from happening.
 The data contains information about 6735 unique survey participants.
 
+Jupyter Notebook
+
+https://colab.research.google.com/github/MiksterBerlin/BRFSS_MH/blob/This%26That/Capstone_MH_Prediction.ipynb
+
 Summary
 
 This project aimed to build a model to predict depression using the Behavioral Risk Factor Surveillance System (BRFSS) 2021 dataset.
